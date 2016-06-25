@@ -38,3 +38,7 @@ Icon
 
 # IDE settings
 .idea
+/nbproject
+/nbproject/private
+/nbproject/project.xml
+/nbproject/project.properties
